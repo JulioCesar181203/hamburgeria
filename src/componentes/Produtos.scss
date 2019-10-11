@@ -1,0 +1,17 @@
+.Produtos{
+    width: 350px;
+    height: 350px;
+    border: 1px solid white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6vh;
+    h1 {
+      color: white;
+    }
+    h3 {
+      font-size: 3rem;
+    }
+  }
